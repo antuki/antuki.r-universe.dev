@@ -4,12 +4,13 @@
         "url": "https://github.com/antuki/COGugaison"
     },
     {
+        "package": "btb",
+        "url": "https://github.com/InseeFr/btb"
+    },
+        {
         "package": "CARTElette",
         "url": "https://github.com/antuki/CARTElette"
         "subdir": "CARTElette"
-    },
-    {
-        "package": "btb",
-        "url": "https://github.com/InseeFr/btb"
     }
+
 ]
