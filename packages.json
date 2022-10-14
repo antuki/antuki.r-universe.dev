@@ -6,5 +6,13 @@
     {
         "package": "CARTElette",
         "url": "https://github.com/antuki/CARTElette"
+    },
+    {
+        "package": "btb",
+        "url": "https://github.com/jpramil/btb"
+    },
+    {
+        "package": "btb",
+        "url": "https://github.com/InseeFr/btb"
     }
 ]
