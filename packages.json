@@ -10,7 +10,7 @@
         {
         "package": "CARTElette",
         "url": "https://github.com/antuki/CARTElette",
-        "subdir": "CARTElette"
+        "branch": "RPackage"
     }
 
 ]
